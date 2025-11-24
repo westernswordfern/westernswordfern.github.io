@@ -4,7 +4,7 @@ Environmental Science | Forest Ecology | Remote Sensing | Martian geomorphology
  
 ---
 
-## About Me
+## ABOUT ME TEST
 
 I'm an Environmental Science student at the University of Exeter, with interests in **forest ecology**, **fire regimes**, **remote sensing (LiDAR & photogrammetry)**, and **Martian surface processes**.
 
