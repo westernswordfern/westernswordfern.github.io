@@ -14,5 +14,7 @@ I'm an Environmental Science student at the University of Exeter, with interests
 ---
 
 ## Links
-- [GitHub Profile](https://github.com/westernswordfern)
-- [ORCID iD](https://orcid.org/0009-0002-0648-9014)
+
+- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-16px.png" width="16" height="16" alt="GitHub logo"> [GitHub Profile](https://github.com/westernswordfern)
+
+- <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16" alt="ORCID logo"> [ORCID iD](https://orcid.org/0009-0002-0648-9014)
