@@ -15,4 +15,4 @@ I'm an Environmental Science student at the University of Exeter, with interests
 
 ## Links
 - [GitHub Profile](https://github.com/westernswordfern)
-- [ORCID iD] https://orcid.org/0009-0002-0648-9014
+- [ORCID iD](https://orcid.org/0009-0002-0648-9014)
