@@ -25,3 +25,14 @@
   z-index: 1;
   color: #ffffff !important; /* bright white */
 }
+
+/* Caption text in the veery top right corner of banner */
+.banner-caption {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: #ffffff;
+  font-size: 0.95rem;
+  font-weight: 500;
+  z-index: 2;
+}
