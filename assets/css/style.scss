@@ -3,30 +3,24 @@
 
 @import "{{ site.theme }}";
 
-/* Overall page background */
-body {
-  background-color: #f8fafb;   /* very light cool grey */
-}
-
-h1, h2, h3 {
-  color: #163b3f;              /* deep blueey i think green */
-}
-
-/* links */
-a {
-  color: #006d77;              /* teallll */
-}
-
-a:hover {
-  color: #004e57;
-  text-decoration: underline;
-}
-.banner {
-  background: linear-gradient(90deg, #006d77, #3a86ff);
+.page-header {
+  background-image: url("/IMG_1292.jpeg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
   color: #ffffff;
-  padding: 0.75rem 1.25rem;
-  border-radius: 8px;
-  margin-bottom: 1.75rem;
-  font-size: 0.95rem;
-  font-weight: 500;
+}
+
+.page-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.25);
+  z-index: 0;
+}
+
+.page-header .project-name,
+.page-header .project-tagline {
+  position: relative;
+  z-index: 1;
 }
