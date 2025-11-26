@@ -5,7 +5,7 @@
 
 .page-header {
   position: relative;
-  background-image: url("/IMG_1292.jpeg"); /* Haida Gwaii */
+  background-image: url("/IMG_1292.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -15,23 +15,24 @@
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.30);  
+  background: rgba(0, 0, 0, 0.28);
   z-index: 0;
 }
 
+.page-header .project-name,
 .page-header .project-tagline {
-  color: #ffffff !important; /* pure bright white */
-  opacity: 1 !important;     /* ensures hopefully no dimming */
+  position: relative;
+  z-index: 1;
+  color: #ffffff !important;
+  opacity: 1 !important;   /* override Cayman's subtle fade */
 }
 
-
-/* Caption text in the veery top right corner of banner */
-.banner-caption {
+.page-header::after {
+  content: "Lake Minnewanka — July 2025";
   position: absolute;
-  bottom: 20px;   /* position at bottom */
-  right: 30px;    /* alignment */
+  right: 30px;
+  bottom: 18px;
   color: #ffffff;
-  font-size: 0.95rem;
-  font-weight: 500;
-  z-index: 2;
+  font-size: 0.9rem;
+  z-index: 1;
 }
