@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Overall page background */
+body {
+  background-color: #f8fafb;   /* very light cool grey */
+}
+
+h1, h2, h3 {
+  color: #163b3f;              /* deep blueey i think green */
+}
+
+/* links */
+a {
+  color: #006d77;              /* teallll */
+}
+
+a:hover {
+  color: #004e57;
+  text-decoration: underline;
+}
+.banner {
+  background: linear-gradient(90deg, #006d77, #3a86ff);
+  color: #ffffff;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  margin-bottom: 1.75rem;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
