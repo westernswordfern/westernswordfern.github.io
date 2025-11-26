@@ -28,8 +28,8 @@
 /* Caption text in the veery top right corner of banner */
 .banner-caption {
   position: absolute;
-  top: 20px;
-  right: 30px;
+  bottom: 20px;   /* position at bottom */
+  right: 30px;    /* alignment */
   color: #ffffff;
   font-size: 0.95rem;
   font-weight: 500;
