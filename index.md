@@ -1,5 +1,6 @@
-<img src="IMG_1292.jpeg" alt="Banner image" style="width:100%; height:auto; border-radius: 6px; margin-bottom: 30px;">
-
+---
+layout: default
+---
 
 ## About me
 
