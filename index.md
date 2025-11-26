@@ -3,6 +3,8 @@ layout: default
 title: "Lottie Hack-Lazzari"
 ---
 
+[Projects](projects.md)
+
 ## About me
 
 I’m an undergraduate Environmental Science student at the University of Exeter, interested in forest dynamics, quantitative ecology, and planetary geomorphology. I’m particularly focused on eucalypt and mixed-coniferous forest structural dynamics, including how fire regimes shape successional mechanisms, and the geomorphic evolution of Valles Marineris.
