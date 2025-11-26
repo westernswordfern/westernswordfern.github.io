@@ -17,4 +17,6 @@ I'm an Environmental Science student at the University of Exeter, with interests
 
 - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="16" height="16" alt="GitHub logo"> [GitHub Profile](https://github.com/westernswordfern)
 
+- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/researchgate.svg" width="16" height="16" alt="ResearchGate logo"> [ResearchGate](https://www.researchgate.net/profile/Lottie-Hack-Lazzari?ev=hdr_xprf)
+
 - <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" height="16" alt="ORCID logo"> [ORCID iD](https://orcid.org/0009-0002-0648-9014)
