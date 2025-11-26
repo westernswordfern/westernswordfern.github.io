@@ -10,11 +10,14 @@ I'm an Environmental Science student at the University of Exeter, with interests
 ---
 
 ## Research Interests
+
 - Fire ecology and post-fire forest structural dynamics
-- Giant sequoia and Sierra Nevadan ecosystems  
-- LiDAR, point clouds, and their ecological applications  
-- Long-term forest restoration and climate adaptation  
-- Martian surface processes
+
+- Giant sequoia and Sierra Nevadan ecosystems
+
+- LiDAR, point clouds, and their ecological applications
+
+- Martian surface processes (Tharsis region)
 
 ---
 
