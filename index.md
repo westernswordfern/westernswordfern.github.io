@@ -1,3 +1,5 @@
+<img src="/IMG_1292.jpeg" alt="Banner image" style="width:100%; height:auto; border-radius:10px; margin-bottom:25px; object-fit:cover;">
+
 ## About me
 
 I'm an Environmental Science student at the University of Exeter, with interests in **forest ecology**, **fire regimes**, **remote sensing (LiDAR & photogrammetry)**, and **Martian surface processes**.
