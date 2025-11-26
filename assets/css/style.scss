@@ -19,12 +19,11 @@
   z-index: 0;
 }
 
-.page-header .project-name,
 .page-header .project-tagline {
-  position: relative;
-  z-index: 1;
-  color: #ffffff !important; /* bright white */
+  color: #ffffff !important; /* pure bright white */
+  opacity: 1 !important;     /* ensures hopefully no dimming */
 }
+
 
 /* Caption text in the veery top right corner of banner */
 .banner-caption {
