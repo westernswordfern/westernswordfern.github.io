@@ -27,8 +27,10 @@ I’m an undergraduate Environmental Science student at the University of Exeter
 
 ## Education
 
-**BSc Environmental Science**
+BSc Environmental Science
+
 University of Exeter
+
 2025 – 2029
 
 ---
