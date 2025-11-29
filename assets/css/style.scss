@@ -36,3 +36,16 @@
   font-size: 0.9rem;
   z-index: 1;
 }
+
+/* the full width photo footer*/
+.site-footer {
+  position: relative;
+  background-image: url("/IMG_2666.jpeg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin-top: 40px;
+}
