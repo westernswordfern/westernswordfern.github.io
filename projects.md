@@ -5,4 +5,4 @@ layout: default
 
 # Projects
 
-to be continued 
+Welcome to my projects page!
