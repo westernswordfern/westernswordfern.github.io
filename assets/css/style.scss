@@ -24,7 +24,7 @@
   position: relative;
   z-index: 1;
   color: #ffffff !important;
-  opacity: 1 !important;   /* override Cayman's subtle fade */
+  opacity: 1 !important;   /* overriding Cayman's i think subtle fade */
 }
 
 .page-header::after {
@@ -37,15 +37,41 @@
   z-index: 1;
 }
 
-/* the full width photo footer*/
+/* full width IMG_2666.jpeg */
 .site-footer {
   position: relative;
+  border-top: none;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* full-width and use the image as background */
+.site-footer .wrapper {
+  max-width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 32px;
+  padding-bottom: 32px;
+
   background-image: url("/IMG_2666.jpeg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+
+  position: relative;
   color: #ffffff;
-  padding-top: 32px;
-  padding-bottom: 32px;
-  margin-top: 40px;
+}
+
+/* a dark overlay for its readability */
+.site-footer .wrapper::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 0;
+}
+
+.site-footer .wrapper > * {
+  position: relative;
+  z-index: 1;
 }
