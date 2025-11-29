@@ -25,6 +25,20 @@ I’m an undergraduate Environmental Science student at the University of Exeter
 
 ---
 
+## Education
+
+**BSc Environmental Science**
+University of Exeter
+2025 – 2029
+
+---
+
+## Experience
+
+
+
+---
+
 ## Links
 
 - <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="16" height="16" alt="GitHub logo"> [GitHub Profile](https://github.com/westernswordfern)
