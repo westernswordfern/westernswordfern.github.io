@@ -1,10 +1,9 @@
 ---
+layout: page
 title: "Projects"
-layout: default
+permalink: /projects/
 ---
 
-# Projects
-
-Welcome to my projects page!
-
-## 
+<ul class="project-list">
+  <li><a href="/projects/hirise/">HiRISE Terrain Analysis (MRO)</a></li>
+</ul>
