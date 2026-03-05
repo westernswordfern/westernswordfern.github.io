@@ -1,5 +1,3 @@
-# Lottie Hack-Lazzari
-
-personal website
+this is my personal/accademic website
 
 https://westernswordfern.github.io
